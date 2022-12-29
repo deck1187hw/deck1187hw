@@ -6,7 +6,7 @@ Software Engineer Leader
 
 Technical Lead working at Nando's UK. Javascript lover years of experience in Software Development and Developer Advocacy.
 
-👷 [Alternative Github (miguelpuiggarcia)](https://github.com/miguelpuiggarcia)
+👷 [Alternative Work Github](https://github.com/miguelpuiggarcia)
 
 
 * 🌍  I'm based in London, UK
