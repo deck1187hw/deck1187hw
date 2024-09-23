@@ -4,7 +4,7 @@ Hi 👋 My name is Miguel Puig
 Software Engineer Leader
 ------------------------
 
-Technical Lead working at Nando's UK. Javascript lover years of experience in Software Development and Developer Advocacy.
+Head of Engineering working at Nando's UK. Javascript lover years of experience in Software Development and Developer Advocacy.
 
 👷 [Alternative Work Github](https://github.com/miguelpuiggarcia)
 
